@@ -3,7 +3,7 @@ title: Ubuntu 安装samba
 slug: ubuntu-an-zhuang-samba-z19g6wp
 url: /post/ubuntu-an-zhuang-samba-z19g6wp.html
 date: '2023-11-02 08:15:55'
-lastmod: '2023-11-06 13:08:30'
+lastmod: '2023-11-06 13:10:09'
 toc: true
 isCJKLanguage: true
 ---

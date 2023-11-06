@@ -3,7 +3,7 @@ title: Ubuntu 安装samba
 slug: ubuntu-an-zhuang-samba-z19g6wp
 url: /post/ubuntu-an-zhuang-samba-z19g6wp.html
 date: '2023-11-02 08:15:55'
-lastmod: '2023-11-06 13:10:09'
+lastmod: '2023-11-06 13:40:35'
 toc: true
 isCJKLanguage: true
 ---
@@ -31,7 +31,7 @@ sudo apt install samba
 
 确定挂载的硬盘：
 
-​![image](assets/image-20231102081639-t0gbh5v.png)​
+​![image](http://127.0.0.1:6806/assets/image-20231102081639-t0gbh5v.png)​
 
 ‍
 
@@ -43,7 +43,7 @@ sudo mount /dev/sdb1 home/<username>/sambashare/
 
 检查是否挂载成功 `lsblk`​
 
-​![image](assets/image-20231102081651-xfxtn3n.png)​
+​![image](http://127.0.0.1:6806/assets/image-20231102081651-xfxtn3n.png)​
 
 # 三、编写配置文件并创建用户
 
